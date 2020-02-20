@@ -1,0 +1,26 @@
+
+h1{
+    color:rgb(212, 161, 161)
+}
+body{
+    background-color:#7899ef;
+    background-position: top 30px left 2px;
+}
+.header{
+    background-color:cyan;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    border-radius: 30px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
